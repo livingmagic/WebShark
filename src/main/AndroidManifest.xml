@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.timetop.shark">
+
+    <application android:label="@string/app_name">
+        <activity android:name=".SharkBrowseActivity" android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>
