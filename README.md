@@ -1,1 +1,1 @@
-# shark 用于Hybrid应用开发的webview封装库，Android平台
+# WebShark 鐢ㄤ簬Hybrid搴旂敤寮�鍙戠殑webview灏佽搴擄紝Android骞冲彴
